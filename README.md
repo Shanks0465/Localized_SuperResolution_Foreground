@@ -7,8 +7,8 @@ Nivedita M
 
 > The main focus of this paper was to explore the possibility of resolution increase by just computing super resolution on the foreground objects and comparing it with entire single image super resolution. The architecture is based on the combination of MR-CNN for Image Segmentation and U-Net Model for Super Resolution
 
-![](media/person2.png)
-![](media/ex4.png)
+![Example1](media/person2.png)
+![Example2](media/ex4.png)
 
 ## Abstract
 
