@@ -3,7 +3,7 @@ by
 Umashankar Kumaravelan,
 Nivedita M
 
-[Preprint] (https://arxiv.org/abs/2110.14413)
+https://arxiv.org/abs/2110.14413
 
 > This paper has been presented at AICTE Sponsored 4th International Conference on "Recent Trends in Advanced Computing" in Collaboration between Vellore Institute of Technology, Chennai and National Cheng Kung University, Taiwan.
 
