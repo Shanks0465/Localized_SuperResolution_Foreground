@@ -3,6 +3,8 @@ by
 Umashankar Kumaravelan,
 Nivedita M
 
+[Preprint] (https://arxiv.org/abs/2110.14413)
+
 > This paper has been presented at AICTE Sponsored 4th International Conference on "Recent Trends in Advanced Computing" in Collaboration between Vellore Institute of Technology, Chennai and National Cheng Kung University, Taiwan.
 
 > The main focus of this paper was to explore the possibility of resolution increase by just computing super resolution on the foreground objects and comparing it with entire single image super resolution. The architecture is based on the combination of MR-CNN for Image Segmentation and U-Net Model for Super Resolution
