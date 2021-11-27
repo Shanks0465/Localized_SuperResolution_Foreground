@@ -9,8 +9,8 @@ https://arxiv.org/abs/2110.14413
 
 > The main focus of this paper was to explore the possibility of resolution increase by just computing super resolution on the foreground objects and comparing it with entire single image super resolution. The architecture is based on the combination of MR-CNN for Image Segmentation and U-Net Model for Super Resolution
 
-<img src="media/ex4.PNG" alt="Shanks" width="1050" height="250">
-<img src="media/person2.PNG" alt="Shanks" width="1050" height="250">
+<img src="media/ex4.PNG" alt="Shanks" width="1200" height="250">
+<img src="media/person2.PNG" alt="Shanks" width="1200" height="250">
 
 ## Abstract
 
